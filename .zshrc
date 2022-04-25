@@ -5,6 +5,8 @@
 export ZSH="$HOME/.oh-my-zsh"
 alias vim=nvim
 alias nvim=$HOME/nvim-osx64/bin/nvim
+alias cloud="cd /Users/dylankinzer/Library/'Mobile Documents'/com~apple~CloudDocs/Personal"
+alias restart=exec zsh -l
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
