@@ -25,7 +25,7 @@ set smartindent
 set nu
 "set nowrap
 "set smartcasdd
-set nohlsearch
+"set nohlsearch
 set hidden
 set noswapfile
 set nobackup
